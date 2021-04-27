@@ -1,0 +1,74 @@
+body{
+	background-image: url(ums_bg.jpg);
+}
+.img-container {
+	text-align: center;
+}
+.img-logo {
+	text-align: center;
+	padding-top: 10px;
+}
+.sign_in{
+    text-align: center;
+	color: black;
+	font-family: 'fantasy';
+	font-size: 35px;
+	padding-top: 12px;
+}
+.box{
+	margin: auto;
+}
+.container{
+	margin: auto;
+	width: 500px;
+}
+.lable
+{
+	font-family: sans-serif;
+	font-size: 40px;
+
+}
+.Body {
+	font-family: Helvetica, sans-serif;
+	background-color: pink;
+}
+button {
+	background-color: seagreen;
+	width: 25%;
+	height: 40px;
+	color: white;
+	border: thick;
+	cursor: pointer;
+	font-family: sans-serif;
+	font-size: 20px;
+	margin-top: 12px;
+	border-radius: 4px;
+}
+input[type=text],
+input[type=password] {
+	width: 100%;
+	margin: 8px 0;
+	padding: 12px 20px;
+	display: inline-block;
+	border: 2px solid green;
+	box-sizing: border-box;
+	font-family: monospace;
+	font-size: 14px;
+	border-radius: 4px;
+}
+button:hover {
+	opacity: 0.7;
+}
+.cancelbtn {
+	background-color: seagreen;
+	width: 25%;
+	height: 40px;
+	color: white;
+	border: thick;
+	cursor: pointer;
+	font-family: sans-serif;
+	font-size: 20px;
+	margin-top: 12px;
+	border-radius: 4px;
+	float: right;
+}
